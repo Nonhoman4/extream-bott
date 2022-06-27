@@ -1,8 +1,8 @@
 
 global.nomerOwner ="6281238772258"
 global.nomerOwner2 = "62813390135874"
-global.ownerName = "HFZ"
-global.botName = "immortal" 
+global.ownerName = "Rusdi"
+global.botName = "EXTREAM" 
 global.sessionName ="session"
 global.setmenu ="location"
 global.docType = "docx"

@@ -1,6 +1,6 @@
 
-global.nomerOwner ="6289605393009"
-global.nomerOwner2 = "628889126340"
+global.nomerOwner ="6281238772258"
+global.nomerOwner2 = "62813390135874"
 global.ownerName = "HFZ"
 global.botName = "immortal" 
 global.sessionName ="session"
@@ -16,12 +16,12 @@ global.fake = botName
 global.publik = true
 global.Console = false
 global.autorespon = false
-global.copyright = "© immortal" 
+global.copyright = "© EXTREAM" 
 global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
-global.fake1 ="immortal"
-global.packName = "immortal"
+global.fake1 ="EXTREAM"
+global.packName = "EXTREAM"
 global.authorName = "Crew"
 global.replyType = "web2"
 global.setwelcome = "type1"
